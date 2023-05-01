@@ -1,0 +1,31 @@
+test_combo (__main__.TestAnalyzer)
+Test if the combo method computes the distinct combinations of faces rolled and their counts. ... ok
+test_face_counts (__main__.TestAnalyzer)
+Test if the face_counts method computes the number of times a given face is rolled in each event. ... ok
+test_initialization (__main__.TestAnalyzer)
+Test if the Analyzer object is initialized correctly with a Game object. ... ok
+test_jackpot (__main__.TestAnalyzer)
+Test if the jackpot method computes the correct number of identical face outcomes. ... ok
+test_initialization (__main__.TestDie)
+Test if the Die object is initialized correctly. ... ok
+test_roll (__main__.TestDie)
+Test if the roll method generates the correct number of outcomes. ... ok
+test_set_weight (__main__.TestDie)
+Test if the set_weight method correctly updates the weight of a face. ... ok
+test_show (__main__.TestDie)
+Test if the show method returns a DataFrame with correct values and structure. ... ok
+test_initialization (__main__.TestGame)
+Test if the Game object is initialized properly. ... ok
+test_play (__main__.TestGame)
+Test if the play method works correctly. ... ok
+test_show_invalid_option (__main__.TestGame)
+Test if the show method raises a ValueError for an invalid form option. ... ok
+test_show_narrow (__main__.TestGame)
+Test if the show method returns the correct output in narrow form. ... ok
+test_show_wide (__main__.TestGame)
+Test if the show method returns the correct output in wide form. ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.163s
+
+OK

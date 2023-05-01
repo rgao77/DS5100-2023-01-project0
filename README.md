@@ -107,9 +107,9 @@ A pandas DataFrame with the face combinations and their frequencies.
 
 
 
-# Manifest
+## Manifest
 
-## montecarlo.py: The main module containing the Die, Game, and Analyzer classes.
-## montecarlo_tests.py: Unit tests for the Die, Game, and Analyzer classes.
-## montecarlo_demo.ipynb: A Jupyter Notebook demonstrating the usage of the Monte Carlo Simulator.
-## README.md: This README file.
+montecarlo.py: The main module containing the Die, Game, and Analyzer classes.
+montecarlo_tests.py: Unit tests for the Die, Game, and Analyzer classes.
+montecarlo_demo.ipynb: A Jupyter Notebook demonstrating the usage of the Monte Carlo Simulator.
+README.md: This README file.

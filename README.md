@@ -34,11 +34,12 @@ top_combos = analyzer.combo_results.head(10)
 print(top_combos)
 
 
+```
 
 
-# API Description 
+## API Description 
 
-## Die Class
+### Die Class
 Die class represents a die with customizable faces and weights.
 
 Methods
@@ -65,7 +66,7 @@ Returns:
 The face value of the rolled die.
 
 
-## Game Class
+### Game Class
 Game class represents a game played with a set of dice.
 
 Methods
@@ -85,7 +86,7 @@ Parameters:
 n (int): The number of times the game should be played.
     
     
-## Analyzer Class
+### Analyzer Class
 Analyzer class analyzes the results of a Game object.
 
 Methods

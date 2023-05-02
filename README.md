@@ -3,7 +3,6 @@
 
 Author: Ran Gao
 
-
 ## Synopsis
 
 This Monte Carlo Simulator consists of three classes (Die, Game, and Analyzer) that work together to generate various outcomes for dice games. The simulator allows you to create custom dice, play games with specified dice configurations, and analyze the results.
